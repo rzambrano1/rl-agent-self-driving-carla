@@ -1,0 +1,1101 @@
+Epoch 1
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -94
+Episode steps taken:  132
+Episode duration:  132
+Exploration Steps - Random Action:  116
+Exploitation Steps - Policy Action:  16
+
+Epoch 2
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -23
+Episode steps taken:  194
+Episode duration:  62
+Exploration Steps - Random Action:  58
+Exploitation Steps - Policy Action:  4
+
+Epoch 3
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -12
+Episode steps taken:  249
+Episode duration:  55
+Exploration Steps - Random Action:  50
+Exploitation Steps - Policy Action:  5
+
+Epoch 4
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -68
+Episode steps taken:  279
+Episode duration:  30
+Exploration Steps - Random Action:  27
+Exploitation Steps - Policy Action:  3
+
+Epoch 5
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -29
+Episode steps taken:  323
+Episode duration:  44
+Exploration Steps - Random Action:  41
+Exploitation Steps - Policy Action:  3
+
+Epoch 6
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -83
+Episode steps taken:  339
+Episode duration:  16
+Exploration Steps - Random Action:  12
+Exploitation Steps - Policy Action:  4
+
+Epoch 7
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -64
+Episode steps taken:  365
+Episode duration:  26
+Exploration Steps - Random Action:  22
+Exploitation Steps - Policy Action:  4
+
+Epoch 8
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -74
+Episode steps taken:  391
+Episode duration:  26
+Exploration Steps - Random Action:  22
+Exploitation Steps - Policy Action:  4
+
+Epoch 9
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -82
+Episode steps taken:  415
+Episode duration:  24
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  7
+
+Epoch 10
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -93
+Episode steps taken:  425
+Episode duration:  10
+Exploration Steps - Random Action:  10
+Exploitation Steps - Policy Action:  0
+
+Epoch 11
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -81
+Episode steps taken:  452
+Episode duration:  27
+Exploration Steps - Random Action:  23
+Exploitation Steps - Policy Action:  4
+
+Epoch 12
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -85
+Episode steps taken:  466
+Episode duration:  14
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  3
+
+Epoch 13
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -72
+Episode steps taken:  488
+Episode duration:  22
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  6
+
+Epoch 14
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -73
+Episode steps taken:  517
+Episode duration:  29
+Exploration Steps - Random Action:  28
+Exploitation Steps - Policy Action:  1
+
+Epoch 15
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -65
+Episode steps taken:  542
+Episode duration:  25
+Exploration Steps - Random Action:  22
+Exploitation Steps - Policy Action:  3
+
+Epoch 16
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -54
+Episode steps taken:  575
+Episode duration:  33
+Exploration Steps - Random Action:  25
+Exploitation Steps - Policy Action:  8
+
+Epoch 17
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -89
+Episode steps taken:  585
+Episode duration:  10
+Exploration Steps - Random Action:  9
+Exploitation Steps - Policy Action:  1
+
+Epoch 18
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  15
+Episode steps taken:  647
+Episode duration:  62
+Exploration Steps - Random Action:  55
+Exploitation Steps - Policy Action:  7
+
+Epoch 19
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -41
+Episode steps taken:  674
+Episode duration:  27
+Exploration Steps - Random Action:  26
+Exploitation Steps - Policy Action:  1
+
+Epoch 20
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -56
+Episode steps taken:  696
+Episode duration:  22
+Exploration Steps - Random Action:  18
+Exploitation Steps - Policy Action:  4
+
+Epoch 21
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -45
+Episode steps taken:  724
+Episode duration:  28
+Exploration Steps - Random Action:  23
+Exploitation Steps - Policy Action:  5
+
+Epoch 22
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -80
+Episode steps taken:  749
+Episode duration:  25
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  8
+
+Epoch 23
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -81
+Episode steps taken:  771
+Episode duration:  22
+Exploration Steps - Random Action:  21
+Exploitation Steps - Policy Action:  1
+
+Epoch 24
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -68
+Episode steps taken:  805
+Episode duration:  34
+Exploration Steps - Random Action:  30
+Exploitation Steps - Policy Action:  4
+
+Epoch 25
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -94
+Episode steps taken:  818
+Episode duration:  13
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  2
+
+Epoch 26
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -81
+Episode steps taken:  836
+Episode duration:  18
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  1
+
+Epoch 27
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -52
+Episode steps taken:  876
+Episode duration:  40
+Exploration Steps - Random Action:  32
+Exploitation Steps - Policy Action:  8
+
+Epoch 28
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -83
+Episode steps taken:  900
+Episode duration:  24
+Exploration Steps - Random Action:  18
+Exploitation Steps - Policy Action:  6
+
+Epoch 29
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -75
+Episode steps taken:  920
+Episode duration:  20
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  4
+
+Epoch 30
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -76
+Episode steps taken:  938
+Episode duration:  18
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  2
+
+Epoch 31
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -53
+Episode steps taken:  974
+Episode duration:  36
+Exploration Steps - Random Action:  31
+Exploitation Steps - Policy Action:  5
+
+Epoch 32
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -70
+Episode steps taken:  993
+Episode duration:  19
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  4
+
+Epoch 33
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -80
+Episode steps taken:  1012
+Episode duration:  19
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  2
+
+Epoch 34
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -64
+Episode steps taken:  1039
+Episode duration:  27
+Exploration Steps - Random Action:  22
+Exploitation Steps - Policy Action:  5
+
+Epoch 35
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -74
+Episode steps taken:  1064
+Episode duration:  25
+Exploration Steps - Random Action:  21
+Exploitation Steps - Policy Action:  4
+
+Epoch 36
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -46
+Episode steps taken:  1097
+Episode duration:  33
+Exploration Steps - Random Action:  28
+Exploitation Steps - Policy Action:  5
+
+Epoch 37
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -17
+Episode steps taken:  1163
+Episode duration:  66
+Exploration Steps - Random Action:  53
+Exploitation Steps - Policy Action:  13
+
+Epoch 38
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -82
+Episode steps taken:  1182
+Episode duration:  19
+Exploration Steps - Random Action:  14
+Exploitation Steps - Policy Action:  5
+
+Epoch 39
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -75
+Episode steps taken:  1202
+Episode duration:  20
+Exploration Steps - Random Action:  13
+Exploitation Steps - Policy Action:  7
+
+Epoch 40
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -21
+Episode steps taken:  1260
+Episode duration:  58
+Exploration Steps - Random Action:  50
+Exploitation Steps - Policy Action:  8
+
+Epoch 41
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -62
+Episode steps taken:  1287
+Episode duration:  27
+Exploration Steps - Random Action:  21
+Exploitation Steps - Policy Action:  6
+
+Epoch 42
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -34
+Episode steps taken:  1336
+Episode duration:  49
+Exploration Steps - Random Action:  37
+Exploitation Steps - Policy Action:  12
+
+Epoch 43
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -75
+Episode steps taken:  1361
+Episode duration:  25
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  5
+
+Epoch 44
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -70
+Episode steps taken:  1393
+Episode duration:  32
+Exploration Steps - Random Action:  23
+Exploitation Steps - Policy Action:  9
+
+Epoch 45
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -83
+Episode steps taken:  1418
+Episode duration:  25
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  5
+
+Epoch 46
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -78
+Episode steps taken:  1441
+Episode duration:  23
+Exploration Steps - Random Action:  18
+Exploitation Steps - Policy Action:  5
+
+Epoch 47
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -86
+Episode steps taken:  1454
+Episode duration:  13
+Exploration Steps - Random Action:  12
+Exploitation Steps - Policy Action:  1
+
+Epoch 48
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -70
+Episode steps taken:  1478
+Episode duration:  24
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  4
+
+Epoch 49
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -34
+Episode steps taken:  1526
+Episode duration:  48
+Exploration Steps - Random Action:  40
+Exploitation Steps - Policy Action:  8
+
+Epoch 50
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -5
+Episode steps taken:  1580
+Episode duration:  54
+Exploration Steps - Random Action:  38
+Exploitation Steps - Policy Action:  16
+Saving current policy and target network...
+
+Epoch 51
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -89
+Episode steps taken:  1594
+Episode duration:  14
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  3
+
+Epoch 52
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -84
+Episode steps taken:  1617
+Episode duration:  23
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  8
+
+Epoch 53
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -90
+Episode steps taken:  1632
+Episode duration:  15
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  4
+
+Epoch 54
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -24
+Episode steps taken:  1689
+Episode duration:  57
+Exploration Steps - Random Action:  45
+Exploitation Steps - Policy Action:  12
+
+Epoch 55
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -32
+Episode steps taken:  1733
+Episode duration:  44
+Exploration Steps - Random Action:  37
+Exploitation Steps - Policy Action:  7
+
+Epoch 56
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -70
+Episode steps taken:  1754
+Episode duration:  21
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  5
+
+Epoch 57
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -69
+Episode steps taken:  1783
+Episode duration:  29
+Exploration Steps - Random Action:  19
+Exploitation Steps - Policy Action:  10
+
+Epoch 58
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -65
+Episode steps taken:  1814
+Episode duration:  31
+Exploration Steps - Random Action:  24
+Exploitation Steps - Policy Action:  7
+
+Epoch 59
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -82
+Episode steps taken:  1838
+Episode duration:  24
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  9
+
+Epoch 60
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -41
+Episode steps taken:  1885
+Episode duration:  47
+Exploration Steps - Random Action:  40
+Exploitation Steps - Policy Action:  7
+
+Epoch 61
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -67
+Episode steps taken:  1911
+Episode duration:  26
+Exploration Steps - Random Action:  22
+Exploitation Steps - Policy Action:  4
+
+Epoch 62
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -93
+Episode steps taken:  1925
+Episode duration:  14
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  3
+
+Epoch 63
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -78
+Episode steps taken:  1947
+Episode duration:  22
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  6
+
+Epoch 64
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -20
+Episode steps taken:  2003
+Episode duration:  56
+Exploration Steps - Random Action:  44
+Exploitation Steps - Policy Action:  12
+
+Epoch 65
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -76
+Episode steps taken:  2023
+Episode duration:  20
+Exploration Steps - Random Action:  18
+Exploitation Steps - Policy Action:  2
+
+Epoch 66
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -44
+Episode steps taken:  2050
+Episode duration:  27
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  7
+
+Epoch 67
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -88
+Episode steps taken:  2061
+Episode duration:  11
+Exploration Steps - Random Action:  6
+Exploitation Steps - Policy Action:  5
+
+Epoch 68
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -65
+Episode steps taken:  2078
+Episode duration:  17
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  6
+
+Epoch 69
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -75
+Episode steps taken:  2102
+Episode duration:  24
+Exploration Steps - Random Action:  18
+Exploitation Steps - Policy Action:  6
+
+Epoch 70
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -48
+Episode steps taken:  2145
+Episode duration:  43
+Exploration Steps - Random Action:  35
+Exploitation Steps - Policy Action:  8
+
+Epoch 71
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -30
+Episode steps taken:  2185
+Episode duration:  40
+Exploration Steps - Random Action:  30
+Exploitation Steps - Policy Action:  10
+
+Epoch 72
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -31
+Episode steps taken:  2229
+Episode duration:  44
+Exploration Steps - Random Action:  27
+Exploitation Steps - Policy Action:  17
+
+Epoch 73
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -86
+Episode steps taken:  2253
+Episode duration:  24
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  7
+
+Epoch 74
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -78
+Episode steps taken:  2274
+Episode duration:  21
+Exploration Steps - Random Action:  13
+Exploitation Steps - Policy Action:  8
+
+Epoch 75
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -44
+Episode steps taken:  2309
+Episode duration:  35
+Exploration Steps - Random Action:  23
+Exploitation Steps - Policy Action:  12
+
+Epoch 76
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -59
+Episode steps taken:  2348
+Episode duration:  39
+Exploration Steps - Random Action:  27
+Exploitation Steps - Policy Action:  12
+
+Epoch 77
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -52
+Episode steps taken:  2392
+Episode duration:  44
+Exploration Steps - Random Action:  32
+Exploitation Steps - Policy Action:  12
+
+Epoch 78
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -46
+Episode steps taken:  2424
+Episode duration:  32
+Exploration Steps - Random Action:  24
+Exploitation Steps - Policy Action:  8
+
+Epoch 79
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -79
+Episode steps taken:  2446
+Episode duration:  22
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  6
+
+Epoch 80
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -60
+Episode steps taken:  2474
+Episode duration:  28
+Exploration Steps - Random Action:  19
+Exploitation Steps - Policy Action:  9
+
+Epoch 81
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -72
+Episode steps taken:  2497
+Episode duration:  23
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  8
+
+Epoch 82
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -52
+Episode steps taken:  2538
+Episode duration:  41
+Exploration Steps - Random Action:  29
+Exploitation Steps - Policy Action:  12
+
+Epoch 83
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -98
+Episode steps taken:  2544
+Episode duration:  6
+Exploration Steps - Random Action:  3
+Exploitation Steps - Policy Action:  3
+
+Epoch 84
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -58
+Episode steps taken:  2566
+Episode duration:  22
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  6
+
+Epoch 85
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -65
+Episode steps taken:  2588
+Episode duration:  22
+Exploration Steps - Random Action:  14
+Exploitation Steps - Policy Action:  8
+
+Epoch 86
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -77
+Episode steps taken:  2602
+Episode duration:  14
+Exploration Steps - Random Action:  9
+Exploitation Steps - Policy Action:  5
+
+Epoch 87
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -80
+Episode steps taken:  2618
+Episode duration:  16
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  5
+
+Epoch 88
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -83
+Episode steps taken:  2636
+Episode duration:  18
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  3
+
+Epoch 89
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -67
+Episode steps taken:  2658
+Episode duration:  22
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  2
+
+Epoch 90
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -78
+Episode steps taken:  2678
+Episode duration:  20
+Exploration Steps - Random Action:  15
+Exploitation Steps - Policy Action:  5
+
+Epoch 91
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -70
+Episode steps taken:  2710
+Episode duration:  32
+Exploration Steps - Random Action:  20
+Exploitation Steps - Policy Action:  12
+
+Epoch 92
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -57
+Episode steps taken:  2733
+Episode duration:  23
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  7
+
+Epoch 93
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -83
+Episode steps taken:  2755
+Episode duration:  22
+Exploration Steps - Random Action:  16
+Exploitation Steps - Policy Action:  6
+
+Epoch 94
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -72
+Episode steps taken:  2784
+Episode duration:  29
+Exploration Steps - Random Action:  14
+Exploitation Steps - Policy Action:  15
+
+Epoch 95
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -76
+Episode steps taken:  2800
+Episode duration:  16
+Exploration Steps - Random Action:  11
+Exploitation Steps - Policy Action:  5
+
+Epoch 96
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -77
+Episode steps taken:  2816
+Episode duration:  16
+Exploration Steps - Random Action:  14
+Exploitation Steps - Policy Action:  2
+
+Epoch 97
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -69
+Episode steps taken:  2838
+Episode duration:  22
+Exploration Steps - Random Action:  17
+Exploitation Steps - Policy Action:  5
+
+Epoch 98
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -58
+Episode steps taken:  2875
+Episode duration:  37
+Exploration Steps - Random Action:  26
+Exploitation Steps - Policy Action:  11
+
+Epoch 99
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -47
+Episode steps taken:  2919
+Episode duration:  44
+Exploration Steps - Random Action:  33
+Exploitation Steps - Policy Action:  11
+
+Epoch 100
+-------
+Starting new episode
+episode_ended_due_collision
+Episode ended
+Episode Cumulative Reward:  -49
+Episode steps taken:  2950
+Episode duration:  31
+Exploration Steps - Random Action:  23
+Exploitation Steps - Policy Action:  8
+Saving current policy and target network...
