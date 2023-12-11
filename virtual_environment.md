@@ -1,14 +1,10 @@
-######################
-# CARLA Installation #
-######################
+### CARLA Installation 
 
 https://carla.readthedocs.io/en/0.9.14/start_quickstart/
 
 CARLA’s Python API is compatible with Python versions 2.7, 3.6, 3.7, and 3.8. To comply with this specification a virtual environment was setup using conda.
 
-#####################
-# Conda Environment #
-#####################
+### Conda Environment 
 
 In windows to use conda it is required to start an Anaconda Prompt. Then an environment can be created using the following command:
 
@@ -36,11 +32,10 @@ The CARLA client library can be downloaded from PyPi. This library is compatible
 The final step is installing CUDA and PyTorch with GPU support. The following guides were followed to accomplish this:
 
 CUDA: https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
+
 PyTorch: https://pytorch.org/get-started/locally/
 
-##########################
-# Testing the Simulation #
-##########################
+### Testing the Simulation 
 
 Once CUDA and PyTorch with CUDA support is installed in the conda environment the availability of GPU is tested in both: an Anaconda Prompt and in a Jupyter Notebook. This is done by running the following commands:
 
